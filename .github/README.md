@@ -1,7 +1,7 @@
 # Dave Clarke
 ### Front-end developer specialising in Vue.js, UI development, and web performance
 
-> 📞 - [07876567813](tel:07876567813) ✉ - [doot0@doot0.co.uk](mailto:doot0@doot0.co.uk) |  [Github - @doot0](https://github.com/doot0)
+> 📞 - [07876567813](tel:07876567813) | ✉ - [doot0@doot0.co.uk](mailto:doot0@doot0.co.uk) |  [Github - @doot0](https://github.com/doot0)
 
 ### Bio
 Mid/senior level front-end developer with 8 years experience in a professional capacity. Highly personable and 
