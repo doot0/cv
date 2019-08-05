@@ -22,6 +22,7 @@ Tech stack:
 - Backend: PHP
 - Infrastructure: Apache
 
+---
 
 - CTO @ [Foundlost](https://foundlo.st) _"AirBnb" for extreme outdoor expeditions._ *(April 2019 - Present)*
 
