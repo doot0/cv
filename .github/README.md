@@ -1,7 +1,7 @@
 # Dave Clarke
 ### Front-end developer specialising in Vue.js, UI development, and web performance
 
-> 📞 - [07876567813](tel:07876567813) | ✉ - [doot0@doot0.co.uk](mailto:doot0@doot0.co.uk) |  [Github - @doot0](https://github.com/doot0)
+> 📞 - plus 447876567813 | ✉ - [doot0@doot0.co.uk](mailto:doot0@doot0.co.uk) |  [Github - @doot0](https://github.com/doot0)
 
 ### Bio
 Mid/senior level front-end developer with 8 years experience in a professional capacity. Highly personable and 
@@ -10,6 +10,18 @@ become extremely good at working with ambiguity and unknowns in a given situatio
 across every aspect involved in what it is to build a maintainable, high quality website or web app.
 
 #### Current
+
+- Frontend Developer, contracting @ [SamKnows](https://samknows.com) *(June 2019 - August 19th 2019)*
+
+First role as a contractor. Acting stand-in for the lead frontend developer for first 4 weeks, then moved to the
+platform engineering team. During the first half of my time there I was responsible for cutting the amount of API
+requests for the platform by at least 40%, and reducing the size of the overall frontend payload by at least 5%.
+
+Tech stack:
+- Frontend: Vue.js, SCSS
+- Backend: PHP
+- Infrastructure: Apache
+
 
 - CTO @ [Foundlost](https://foundlo.st) _"AirBnb" for extreme outdoor expeditions._ *(April 2019 - Present)*
 
@@ -44,10 +56,10 @@ Tech stack:
 Another startup role, based in education technology. Mostly remote, but around 6 months in total on site in Hong Kong. 
 This role was pivotal in helping shape my skill-set into what it is today. Before I was hired at this startup, 
 the entire frontend was in a huge state of disarray. After arriving and identifying hundreds of problems with the 
-code, I knew it was essentially beyond repair. As a result, me and the CTO of the company binned our entire front-end, 
-and with me on board, we rewrote the entire UI in 2 weeks whilst working closely with the lead designer. The 
-resulting frontend was massively scalable and maintainable and remained in use for the duration of the company's 
-existence. To quote the the co-founders of the company; 
+code, I knew it was essentially beyond repair. As a result, the CTO and I binned our entire front-end, and with me on 
+board, we rewrote the entire UI in 2 weeks whilst working closely with the lead designer. The resulting frontend was 
+massively scalable and maintainable and remained in use for the duration of the company's existence. To quote the the 
+co-founders of the company; 
 "without Dave on board, the company would have died within 4 weeks".
 
 While here I authored a CSS architecture guide for building hugely scalable and maintainable UI that can be applied 
@@ -84,7 +96,7 @@ Tech covered:
 - Frontend Developer @ [Moore-Wilson New Media Ltd](https://www.m-w.co.uk/) *(September 2014 - November 2014) 3 months*
 
 I was hired here as a frontend developer but was asked to do work outside the scope of my contract. I quickly found 
-work elsewhere where I knew I would be of actual technical use. Regardless of this, it was here I first learned to 
+work elsewhere, where I knew I would be of actual technical use. Regardless of this, it was here I first learned to 
 work in a "real" office environment and this helped bolster my communication skills in the short time I was there.
 
 Tech covered:
