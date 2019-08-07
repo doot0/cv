@@ -1,13 +1,14 @@
 # Dave Clarke
 ### Front-end developer specialising in Vue.js, UI development, and web performance
 
-> 📞 - plus 447876567813 | ✉ - [doot0@doot0.co.uk](mailto:doot0@doot0.co.uk) |  [Github - @doot0](https://github.com/doot0)
+> 🌍 - London | ✉ - [dave@foundlo.st](mailto:dave@foundlo.st) |  [Github - @doot0](https://github.com/doot0)
 
 ### Bio
-Strong mid-level front-end developer with 8 years experience in a professional capacity. Highly personable and 
-empathetic individual able to take lead for projects of almost any size/scope. My past placements have allowed me to 
-become extremely good at working with ambiguity and unknowns in a given workplace, with a deep level of understanding
-across every aspect involved in what it is to build a maintainable, high quality website or web app.
+Strong mid-level front-end developer with 8 years experience in a professional capacity. Recently relocated to London with a view to finding a permanent or contract role. 
+
+Highly personable and empathetic individual able to take lead for projects of almost any size/scope. My past placements have allowed me to become extremely good at working with ambiguity and unknowns in a given workplace, with a deep level of understanding across every aspect involved in what it is to build a maintainable, high quality website or web app.
+
+Having contracted for several years I am ready to consider permanent roles.
 
 #### Technical experience overview
 
@@ -30,7 +31,7 @@ platform engineering team. During the first half of my time there I was responsi
 requests for the platform by at least 25%, and reducing the size of the overall frontend payload by at least 5%.
 
 Tech stack:
-- Frontend: Vue.js & SCSS
+- Frontend: Vue.js, Node.js & SCSS
 - Backend: PHP
 - Infrastructure: GitHub, Apache
 - Testing: Cypress, Jest
@@ -136,9 +137,3 @@ Tech covered:
 - Infrastructure: nginx, Apache, CentOS, Ubuntu, GitHub, BitBucket, JIRA
 - Design: Adobe Fireworks (CS5), Adobe Photoshop (CS5), Adobe Illustrator (CS5)
 - Other technologies of note: Drupal, Magento, WordPress, a bespoke in-house CMS (PHP & Dojo/MooTools)
-
----
-
-### Education
-
-
