@@ -4,23 +4,36 @@
 > 📞 - plus 447876567813 | ✉ - [doot0@doot0.co.uk](mailto:doot0@doot0.co.uk) |  [Github - @doot0](https://github.com/doot0)
 
 ### Bio
-Mid/senior level front-end developer with 8 years experience in a professional capacity. Highly personable and 
-empathetic team player able to take lead for projects of almost any size. My past placements have allowed me to 
-become extremely good at working with ambiguity and unknowns in a given situation, with a deep level of understanding
+Strong mid-level front-end developer with 8 years experience in a professional capacity. Highly personable and 
+empathetic individual able to take lead for projects of almost any size/scope. My past placements have allowed me to 
+become extremely good at working with ambiguity and unknowns in a given workplace, with a deep level of understanding
 across every aspect involved in what it is to build a maintainable, high quality website or web app.
 
-#### Current
+#### Technical experience overview
+
+Development:
+- HTML, CSS, SCSS (excellent)
+- JavaScript ES5 & ES6, Node.js, Vue.js (strong)
+- PHP, Bash, Webpack, Gulp, Cypress, Jest (basic)
+
+Design:
+- Sketch (strong)
+- Photoshop (good)
+- Illustrator (basic)
+
+#### Current roles
 
 - Frontend Developer, contracting @ [SamKnows](https://samknows.com) *(June 2019 - August 19th 2019)*
 
 First role as a contractor. Acting stand-in for the lead frontend developer for first 4 weeks, then moved to the
 platform engineering team. During the first half of my time there I was responsible for cutting the amount of API
-requests for the platform by at least 40%, and reducing the size of the overall frontend payload by at least 5%.
+requests for the platform by at least 25%, and reducing the size of the overall frontend payload by at least 5%.
 
 Tech stack:
-- Frontend: Vue.js, SCSS
+- Frontend: Vue.js & SCSS
 - Backend: PHP
-- Infrastructure: Apache
+- Infrastructure: GitHub, Apache
+- Testing: Cypress, Jest
 
 ---
 
@@ -123,3 +136,9 @@ Tech covered:
 - Infrastructure: nginx, Apache, CentOS, Ubuntu, GitHub, BitBucket, JIRA
 - Design: Adobe Fireworks (CS5), Adobe Photoshop (CS5), Adobe Illustrator (CS5)
 - Other technologies of note: Drupal, Magento, WordPress, a bespoke in-house CMS (PHP & Dojo/MooTools)
+
+---
+
+### Education
+
+
