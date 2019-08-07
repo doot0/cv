@@ -1,7 +1,7 @@
 # Dave Clarke
 ### Front-end developer specialising in Vue.js, UI development, and web performance
 
-> 🌍 - London | ✉ - [dave@foundlo.st](mailto:dave@foundlo.st) |  [Github - @doot0](https://github.com/doot0)
+> 🌐 - London | [dave@foundlo.st](mailto:dave@foundlo.st) | [Github - @doot0](https://github.com/doot0)
 
 ### Bio
 Strong mid-level front-end developer with 8 years experience in a professional capacity. Recently relocated to London with a view to finding a permanent or contract role. 
