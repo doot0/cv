@@ -98,7 +98,7 @@ to what AirTable is today (think Google Spreadsheets + Zapier in one package). T
 an environment 100% remotely but I very quickly adapted to the communication issues that were in my way and was able to
 work very well with ambiguity, as well as being under huge amounts of pressure to deliver on time in order to meet 
 investor targets. I worked primarily in tandem with one other extremely talented developer who now works for 
-(Zeit)[https://zeit.co]. While here I headed up development of my first business-grade SCSS codebase and also helped
+[Zeit](https://zeit.co). While here I headed up development of my first business-grade SCSS codebase and also helped
 refactor from Angular 1 to Angular 2.
 
 Tech covered:
