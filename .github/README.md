@@ -4,7 +4,7 @@
 > London | [dave@foundlo.st](mailto:dave@foundlo.st) | [Github](https://github.com/doot0) | [PDF version](https://gitprint.com/doot0/cv/master/.github/README.md)
 
 ### Bio
-Strong mid-level front-end developer with 8 years experience in a professional capacity. Recently relocated to London with a view to finding a permanent or contract role. 
+Experienced front-end developer with 8 years experience in a professional capacity. Recently relocated to London with a view to finding a permanent role. 
 
 Highly personable and empathetic individual able to take lead for projects of almost any size/scope. My past placements have allowed me to become extremely good at working with ambiguity and unknowns in a given workplace, with a deep level of understanding across every aspect involved in what it is to build a maintainable, high quality website or web app.
 
