@@ -4,11 +4,11 @@
 > London | [dave@foundlo.st](mailto:dave@foundlo.st) | [Github](https://github.com/doot0) | [PDF version](https://gitprint.com/doot0/cv/master/.github/README.md)
 
 ### Bio
-Experienced front-end developer with 8 years in a professional capacity. Recently relocated to London with a view to finding a permanent role. 
+Experienced front-end developer with 8+ years in a professional capacity. Recently relocated to London with a view to finding a permanent role. 
 
 Highly personable and empathetic individual able to take lead for projects of almost any size/scope. My past placements have allowed me to become extremely good at working with ambiguity and unknowns in a given workplace, with a deep level of understanding across every aspect involved in what it is to build a maintainable, high quality website or web app.
 
-Having contracted for several years I am ready to consider permanent roles.
+Having worked remotely for several years I am ready to consider permanent roles.
 
 #### Technical experience overview
 
@@ -24,17 +24,13 @@ Design:
 
 #### Current roles
 
-- Frontend Developer, contracting @ [SamKnows](https://samknows.com) *(June 2019 - August 19th 2019)*
+- Frontend Developer @ Guider *(September 2019 - April 2020)*
 
-First role as a contractor. Acting stand-in for the lead frontend developer for first 4 weeks, then moved to the
-platform engineering team. During the first half of my time there I was responsible for cutting the amount of API
-requests for the platform by at least 25%, and reducing the size of the overall frontend payload by at least 5%.
-
-Tech stack:
-- Frontend: Vue.js, Node.js & SCSS
-- Backend: PHP
-- Infrastructure: GitHub, Apache
-- Testing: Cypress, Jest
+Tech covered:
+- Frontend: Vue.js, Vuex, TypeScript, SCSS
+- Backend: Node.js
+- Infrastructure: GitHub, Trello
+- Design: Sketch
 
 ---
 
@@ -52,6 +48,20 @@ Our tech stack currently includes the following;
 ------
 
 #### Past roles
+
+- Frontend Developer @ [SamKnows](https://samknows.com) *(June 2019 - August 19th 2019)*
+
+First role as a contractor. Acting stand-in for the lead frontend developer for first 4 weeks, then moved to the
+platform engineering team. During the first half of my time there I was responsible for cutting the amount of API
+requests for the platform by at least 25%, and reducing the size of the overall frontend payload by at least 5%.
+
+Tech stack:
+- Frontend: Vue.js, Node.js & SCSS
+- Backend: PHP
+- Infrastructure: GitHub, Apache
+- Testing: Cypress, Jest
+
+---
 
 - Lead Frontend Developer & UI Architect @ GraphEQ (now defunct) *(September 2017 - 2018) 1 year*
 
