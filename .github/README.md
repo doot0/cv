@@ -24,7 +24,7 @@ Design:
 
 #### Current roles
 
-- Frontend Developer @ Guider *(September 2019 - April 2020)*
+- Frontend Developer @ [Guider](https://www.guider-ai.com/) *(September 2019 - April 2020)*
 
 Tech covered:
 - Frontend: Vue.js, Vuex, TypeScript, SCSS
