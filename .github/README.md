@@ -24,16 +24,6 @@ Design:
 
 #### Current roles
 
-- Frontend Developer @ [Guider](https://www.guider-ai.com/) *(September 2019 - Present)*
-
-Tech covered:
-- Frontend: Vue.js, Vuex, TypeScript, SCSS
-- Backend: Node.js
-- Infrastructure: GitHub, Trello
-- Design: Sketch
-
----
-
 - CTO @ [Foundlost](https://foundlo.st) _"AirBnb" for extreme outdoor expeditions._ *(April 2019 - Present)*
 
 I handle every single technical aspect at the company - as sole engineer I have built our companies' entire 
@@ -48,6 +38,16 @@ Our tech stack currently includes the following;
 ------
 
 #### Past roles
+
+- Frontend Developer @ [Guider](https://www.guider-ai.com/) *(September 2019 - April 2020)*
+
+Tech covered:
+- Frontend: Vue.js, Vuex, TypeScript, SCSS
+- Backend: Node.js
+- Infrastructure: GitHub, Trello
+- Design: Sketch
+
+---
 
 - Frontend Developer @ [SamKnows](https://samknows.com) *(June 2019 - August 19th 2019)*
 
