@@ -26,6 +26,8 @@ Design:
 
 - CTO @ [Foundlost](https://foundlo.st) _"AirBnb" for extreme outdoor expeditions._ *(April 2019 - Present)*
 
+**Note: This role does not take up any of my day to day and will not affect my 9 to 5.**
+
 I handle every single technical aspect at the company - as sole engineer I have built our companies' entire 
 infrastructure from the ground up. Our infra costs are absolutely nothing which have allowed us to focus our 
 revenues and funding into other parts of the business. 
