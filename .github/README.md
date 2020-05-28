@@ -1,7 +1,7 @@
 # Dave Clarke
 ### Front-end developer specialising in Vue.js, UI development, and web performance
 
-> London | [dave@foundlo.st](mailto:dave@foundlo.st) | [Github](https://github.com/doot0)
+> London | [doot0@doot0.co.uk](mailto:doot0@doot0.co.uk) | [Github](https://github.com/doot0)
 
 ### Bio
 Experienced front-end developer with 8+ years in a professional capacity. Recently relocated to London with a view to finding a permanent role. 
@@ -24,18 +24,7 @@ Design:
 
 #### Current roles
 
-- CTO @ [Foundlost](https://foundlo.st) _"AirBnb" for extreme outdoor expeditions._ *(April 2019 - Present)*
-
-**Note: This role does not take up any of my day to day and will not affect my 9 to 5.**
-
-I handle every single technical aspect at the company - as sole engineer I have built our companies' entire 
-infrastructure from the ground up. Our infra costs are absolutely nothing which have allowed us to focus our 
-revenues and funding into other parts of the business. 
-
-Our tech stack currently includes the following;
-- Frontend: Vue.js, SCSS, Pug (formerly Jade)
-- Backend: AirTable as a content backend. The application is serverless and thus no "real" backend is needed
-- Infrastructure: Netlify, GitHub
+Your company's name could be here! Have a development opportunity that you'd like me to consider? Get in touch!
 
 ------
 
@@ -48,6 +37,19 @@ Tech covered:
 - Backend: Node.js
 - Infrastructure: GitHub, Trello
 - Design: Sketch
+
+---
+
+- CTO + Co-Founder @ [Foundlost](https://foundlo.st) _"AirBnb" for extreme outdoor expeditions._ *(April 2019 - Present)*
+
+I handle every single technical aspect at the company - as sole engineer I have built our companies' entire 
+infrastructure from the ground up. Our infra costs are absolutely nothing which have allowed us to focus our 
+revenues and funding into other parts of the business. 
+
+Our tech stack currently includes the following;
+- Frontend: Vue.js, SCSS, Pug (formerly Jade)
+- Backend: AirTable as a content backend. The application is serverless and thus no "real" backend is needed
+- Infrastructure: Netlify, GitHub
 
 ---
 
