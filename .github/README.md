@@ -4,20 +4,19 @@
 > London | [doot0@doot0.co.uk](mailto:doot0@doot0.co.uk) | [Github](https://github.com/doot0)
 
 ### Bio
-Experienced front-end developer with 8+ years in a professional capacity. Recently relocated to London with a view to finding a permanent role. 
+Experienced front-end developer with 8+ years in a professional capacity. 
 
-Highly personable and empathetic individual able to take lead for projects of almost any size/scope. My past placements have allowed me to become extremely good at working with ambiguity and unknowns in a given workplace, with a deep level of understanding across every aspect involved in what it is to build a maintainable, high quality website or web app.
-
-Having worked remotely for several years I am ready to consider permanent roles.
+Highly personable and empathetic individual able to take lead for projects of almost any size/scope. My past placements have allowed me to become extremely good at working with ambiguity and unknowns, with a deep level of understanding across every aspect involved in what it is to build a maintainable, high quality website or web app.
 
 #### Technical experience overview
 
 Development:
 - HTML, CSS, SCSS (excellent)
-- JavaScript ES5 & ES6, Node.js, Vue.js (strong)
+- JavaScript ES5/ES6+, Node.js, Vue.js (strong)
 - PHP, Bash, Webpack, Gulp, Cypress, Jest (basic)
 
 Design:
+- Figma (strong)
 - Sketch (strong)
 - Photoshop (good)
 - Illustrator (basic)
@@ -40,13 +39,13 @@ Tech covered:
 
 ---
 
-- CTO + Co-Founder @ [Foundlost](https://foundlo.st) _"AirBnb" for extreme outdoor expeditions._ *(April 2019 - Present)*
+- CTO + Co-Founder @ [Foundlost](https://foundlo.st) _"AirBnb" for extreme outdoor expeditions._ *(April 2019 - April 2020)*
 
-I handle every single technical aspect at the company - as sole engineer I have built our companies' entire 
-infrastructure from the ground up. Our infra costs are absolutely nothing which have allowed us to focus our 
+I handled every single technical aspect at the company - as sole engineer I built the companies' entire 
+infrastructure from the ground up. The infra costs were absolutely nothing which allowed us to focus our 
 revenues and funding into other parts of the business. 
 
-Our tech stack currently includes the following;
+Tech stack:
 - Frontend: Vue.js, SCSS, Pug (formerly Jade)
 - Backend: AirTable as a content backend. The application is serverless and thus no "real" backend is needed
 - Infrastructure: Netlify, GitHub
