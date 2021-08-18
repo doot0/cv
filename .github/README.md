@@ -12,9 +12,9 @@
 <table>
 <thead>
   <tr>
-    <th></th>
-    <th>Development</th>
-    <th>Design</th>
+    <th>      </th>
+    <th>        Development       </th>
+    <th>        Design       </th>
   </tr>
 </thead>
 <tbody>
@@ -36,7 +36,7 @@
 </tbody>
 </table>
 
-#### Current roles
+### Current role
 
 - Senior Frontend Engineer @ [Vauban](https://vauban.io) *(July 2020 - Present)*
 
@@ -48,7 +48,7 @@ Tech stack:
 
 ------
 
-#### Past roles
+### Past roles
 
 - Frontend Developer @ [Guider](https://www.guider-ai.com/) *(September 2019 - April 2020)*
 
