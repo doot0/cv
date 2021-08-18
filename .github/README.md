@@ -1,29 +1,50 @@
-# Dave Clarke
-### Front-end developer specialising in Vue.js, UI development, and web performance
+# David Clarke
+### Senior frontend developer specialising in Vue.js, UI development, and web performance
 
-> London | [doot0@doot0.co.uk](mailto:doot0@doot0.co.uk) | [Github](https://github.com/doot0)
+> London | [doot0@doot0.co.uk](mailto:doot0@doot0.co.uk) | [Github](https://github.com/doot0) | _he/him_
 
-### Bio
-Experienced front-end developer with 8+ years in a professional capacity. 
-
-Highly personable and empathetic individual able to take lead for projects of almost any size/scope. My past placements have allowed me to become extremely good at working with ambiguity and unknowns, with a deep level of understanding across every aspect involved in what it is to build a maintainable, high quality website or web app.
+- Experienced frontend developer with 8+ years in a professional capacity. 
+- Enormously passionate about delivering the best possible user experiece.
+- Empathetic and personable individual able to take lead for projects of almost any size/scope.
 
 #### Technical experience overview
 
-Development:
-- HTML, CSS, SCSS (excellent)
-- JavaScript ES5/ES6+, Node.js, Vue.js (strong)
-- PHP, Bash, Webpack, Gulp, Cypress, Jest (basic)
-
-Design:
-- Figma (strong)
-- Sketch (strong)
-- Photoshop (good)
-- Illustrator (basic)
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th>Development</th>
+    <th>Design</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Strong</td>
+    <td>HTML + CSS, Javascript, Vue.js</td>
+    <td>Figma, Sketch</td>
+  </tr>
+  <tr>
+    <td>Good</td>
+    <td>Nuxt, Node.js</td>
+    <td>Photoshop</td>
+  </tr>
+  <tr>
+    <td>Basic</td>
+    <td>PHP, bash, webpack, vite, cypress, Jest</td>
+    <td>Illustrator</td>
+  </tr>
+</tbody>
+</table>
 
 #### Current roles
 
-Your company's name could be here! Have a development opportunity that you'd like me to consider? Get in touch!
+- Senior Frontend Engineer @ [Vauban](https://vauban.io) *(July 2020 - Present)*
+
+Tech stack:
+- Frontend: Vue.js, Nuxt.js, Vuex, Typescript, SCSS
+- Backend: Node.js + Typescript
+- Infrastructure: Gitlab, AWS, Heroku
+- Design: Figma
 
 ------
 
