@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td>Basic</td>
-    <td>PHP, bash, webpack, vite, cypress, Jest</td>
+    <td>PHP, bash, webpack, vite, cypress, Jest, and MANY more</td>
     <td>Illustrator</td>
   </tr>
 </tbody>
