@@ -1,5 +1,5 @@
 # David Clarke
-### Senior full stack, frontend-focused developer specialising in Vue.js and UI architecture
+### Senior full-stack, frontend focused developer specialising in Vue.js and UI architecture
 
 > London | [doot0@doot0.co.uk](mailto:doot0@doot0.co.uk) | [Github](https://github.com/doot0) | _he/him_
 
@@ -107,14 +107,12 @@ was another startup role. Here my responsibilities very closely matched the ones
 
 >Lead Frontend Developer & UI Architect @ Pathship (previously The Graduate, now defunct) *(October 2015 - April 2017) 1 year, 7 months*
 
-Startup role in education technology. Mostly remote, but around 6 months in total on site in Hong Kong. 
-This role was pivotal in helping shape my skill-set into what it is today. After joining, the CTO and 
-I binned the entire front-end (which had accrued riduculous technical debt) and rewrote it all in 2 weeks. 
+Startup role. Mostly remote, but around 6 months in total on site in Hong Kong. This role helped shape my 
+skill-set into what it is today. After joining, the CTO and I binned the and rewrote it all in 2 weeks. 
 While here I authored a CSS architecture guide for building hugely scalable and maintainable UI that can 
-be applied to any web codebase which [still holds up to this day](https://github.com/doot0/compago/).
-
-I eventually became responsible for leading a talented team of 4-5 developers, where I got the chance to exercise
-my team management and leadership skills. 
+be applied to any web codebase which [still holds up to this day](https://github.com/doot0/compago/). I 
+eventually became responsible for leading a talented team of 4-5 developers, where I got the chance to 
+exercise my team management and leadership skills. 
 
 - Frontend: Angular JS, Angular JS 2, Vue.js, SCSS
 - Backend: Node.js
@@ -123,7 +121,7 @@ my team management and leadership skills.
 
 --- 
 
->.Remote Frontend Engineer @ Gasket Inc (now defunct) *(November 2014 - April 2015) 6 months*
+>Remote Frontend Engineer @ Gasket Inc (now defunct) *(November 2014 - April 2015) 6 months*
 
 This was my first role at a startup. Gasket Inc was a company based in San Francisco seeking to create a product similar
 to what AirTable is today (think Google Spreadsheets + Zapier in one package). This was the first time I had worked in
