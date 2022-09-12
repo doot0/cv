@@ -38,7 +38,19 @@
 
 ### Current role
 
-- Senior Frontend Engineer @ [Vauban](https://vauban.io) *(July 2020 - Present)*
+- Senior Frontend Engineer @ [Publicis Emil - Saatchi & Saatchi](https://saatchi.co.uk/) *(Oct 2021 - Present)*
+
+Tech stack:
+- Frontend: Vue.js, Nuxt.js, Vuex, Typescript, SCSS
+- Backend: Node.js + Typescript
+- Infrastructure: Gitlab, AWS
+- Design: Figma, Sketch
+
+------
+
+### Past roles
+
+- Senior Frontend Engineer @ [Vauban](https://vauban.io) *(July 2020 - October 2021)*
 
 Tech stack:
 - Frontend: Vue.js, Nuxt.js, Vuex, Typescript, SCSS
@@ -46,9 +58,7 @@ Tech stack:
 - Infrastructure: Gitlab, AWS, Heroku
 - Design: Figma
 
-------
-
-### Past roles
+---
 
 - Frontend Developer @ [Guider](https://www.guider-ai.com/) *(September 2019 - April 2020)*
 
