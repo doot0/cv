@@ -1,11 +1,11 @@
 # David Clarke
-### Senior Frontend Developer specialising in Vue.js, UI development, and web performance
+### Senior full stack, frontend-focused developer specialising in Vue.js and UI architecture
 
 > London | [doot0@doot0.co.uk](mailto:doot0@doot0.co.uk) | [Github](https://github.com/doot0) | _he/him_
 
-- Experienced developer with over 8 years in a professional capacity.
-- Passionate about delivering the best possible user experiece.
+- 10 years of professional experience.
 - Empathetic, personable, and supportive leader.
+- Passionate about delivering the best possible user experiece.
 
 #### Technical experience overview
 
