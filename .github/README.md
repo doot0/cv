@@ -7,34 +7,15 @@
 - Empathetic, personable, and supportive leader.
 - Passionate about delivering the best possible user experiece.
 
+---
+
 #### Technical experience overview
 
-<table>
-<thead>
-  <tr>
-    <th>      </th>
-    <th>        Development       </th>
-    <th>        Design       </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Strong</td>
-    <td>HTML + CSS, Javascript, Vue.js</td>
-    <td>Figma, Sketch</td>
-  </tr>
-  <tr>
-    <td>Good</td>
-    <td>Nuxt, Node.js</td>
-    <td>Photoshop</td>
-  </tr>
-  <tr>
-    <td>Basic</td>
-    <td>PHP, bash, webpack, vite, cypress, Jest, and MANY more</td>
-    <td>Illustrator</td>
-  </tr>
-</tbody>
-</table>
+- **Strong**: HTML + CSS, Javascript, Vue, Figma, Sketch
+- **Good**: Nuxt, Node.js, Photoshop
+- **Basic**: PHP, bash, webpack, vite, cypress, Jest, and MANY more, Illustrator
+
+---
 
 ### Current role
 
