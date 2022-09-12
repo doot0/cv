@@ -52,6 +52,9 @@ Tech stack:
 
 >Senior Frontend Engineer @ [Vauban](https://vauban.io) *(July 2020 - October 2021)*
 
+I was responsible for defining and building the UI architecture that allowed the company
+to move at such pace that it was able to exit within a year of me joining.
+
 - Frontend: Vue.js, Nuxt.js, Vuex, Typescript, SCSS
 - Backend: Node.js + Typescript
 - Infrastructure: Gitlab, AWS, Heroku
@@ -110,8 +113,9 @@ was another startup role. Here my responsibilities very closely matched the ones
 Startup role. Mostly remote, but around 6 months in total on site in Hong Kong. This role helped shape my 
 skill-set into what it is today. After joining, the CTO and I binned the and rewrote it all in 2 weeks. 
 While here I authored a CSS architecture guide for building hugely scalable and maintainable UI that can 
-be applied to any web codebase which [still holds up to this day](https://github.com/doot0/compago/). I 
-eventually became responsible for leading a talented team of 4-5 developers, where I got the chance to 
+be applied to any web codebase which [still holds up to this day](https://github.com/doot0/compago/). 
+
+I eventually became responsible for leading a talented team of 4-5 developers, where I got the chance to 
 exercise my team management and leadership skills. 
 
 - Frontend: Angular JS, Angular JS 2, Vue.js, SCSS
