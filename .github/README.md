@@ -113,9 +113,8 @@ was another startup role. Here my responsibilities very closely matched the ones
 Startup role. Mostly remote, but around 6 months in total on site in Hong Kong. This role helped shape my 
 skill-set into what it is today. After joining, the CTO and I binned the and rewrote it all in 2 weeks. 
 While here I authored a CSS architecture guide for building hugely scalable and maintainable UI that can 
-be applied to any web codebase which [still holds up to this day](https://github.com/doot0/compago/). 
-
-I eventually became responsible for leading a talented team of 4-5 developers, where I got the chance to 
+be applied to any web codebase which [still holds up to this day](https://github.com/doot0/compago/). I 
+eventually became responsible for leading a talented team of 4-5 developers, where I got the chance to 
 exercise my team management and leadership skills. 
 
 - Frontend: Angular JS, Angular JS 2, Vue.js, SCSS
@@ -127,12 +126,11 @@ exercise my team management and leadership skills.
 
 >Remote Frontend Engineer @ Gasket Inc (now defunct) *(November 2014 - April 2015) 6 months*
 
-This was my first role at a startup. Gasket Inc was a company based in San Francisco seeking to create a product similar
-to what AirTable is today (think Google Spreadsheets + Zapier in one package). This was the first time I had worked in
-an environment 100% remotely but I very quickly adapted to the communication issues that were in my way and was able to
-work very well with ambiguity, as well as being under huge amounts of pressure to deliver on time in order to meet 
-investor targets. While here I headed up development of my first business-grade SCSS codebase and also helped
-refactor from Angular 1 to Angular 2.
+First role at a startup, first 100% remote role. Gasket Inc was a company based in San Francisco seeking to 
+create a product similar to AirTable. I very quickly adapted to the communication issues that were in my way 
+and was able to work very well with ambiguity, as well as being under huge amounts of pressure to deliver on 
+time in order to meet investor targets. I headed up development of my first business-grade SCSS codebase and 
+also helped refactor from Angular 1 to Angular 2.
 
 - Frontend: Angular JS, Angular 2, SCSS
 - Backend: Python
