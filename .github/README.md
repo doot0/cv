@@ -1,19 +1,15 @@
 # David Clarke
-### Senior full-stack, frontend focused developer specialising in Vue.js and UI architecture
+### Senior fullstack, frontend developer (Vue.js/Nuxt.js)
 
 > London | [doot0@doot0.co.uk](mailto:doot0@doot0.co.uk) | [Github](https://github.com/doot0) | _he/him_
 
-- 10 years of professional experience.
-- Empathetic, personable, and supportive leader.
-- Passionate about delivering the best possible user experiece.
+- ***Over 10 years*** of professional experience in the web industry.
+- **Very strong with** HTML/CSS, JavaScript, Vue, Nuxt, Figma, Sketch, UI architecture
+- **Good at** Node.js, vite, Ionic, mentoring junior devs, UX design and development
 
----
-
-#### Technical experience overview
-
-- **Strong**: HTML + CSS, Javascript, Vue, Figma, Sketch
-- **Good**: Nuxt, Node.js, Photoshop
-- **Basic**: PHP, bash, webpack, vite, cypress, Jest, and MANY more, Illustrator
+I can use most frontend frameworks and web technology - PHP, bash, webpack, cypress, Jest... feel free 
+to ask! I'm currently spending my spare time building a web3 fitness app with some ex-coworkers whilst 
+watching content concerning applied mathematics/cryptography, web3, and macro-economics.
 
 ---
 
@@ -24,7 +20,7 @@
 Tech stack:
 - Frontend: Vue.js, Nuxt.js, Vuex, Typescript, SCSS
 - Backend: Node.js + Typescript
-- Infrastructure: Gitlab, AWS
+- Infrastructure: Gitlab, AWS, Jira
 - Design: Figma, Sketch
 
 ------
@@ -54,9 +50,8 @@ to move at such pace that it was able to exit within a year of me joining.
 
 >CTO + Co-Founder @ [Foundlost](https://foundlo.st) _"AirBnb" for extreme outdoor expeditions._ *(April 2019 - April 2020)*
 
-I handled every single technical aspect at the company - as sole engineer I built the companies' entire 
-infrastructure. The infra costs were literally nothing which allowed us to focus revenues and funding 
-into other parts of the business.
+Handled every technical responsibility at the company. As sole engineer I built the companies' entire infrastructure for
+0 runtime cost, which allowed us to funnel revenue into critical business functions.
 
 - Frontend: Vue.js, SCSS, Pug (formerly Jade)
 - Backend: AirTable as a content backend. The application is serverless and thus no "real" backend is needed
@@ -64,11 +59,11 @@ into other parts of the business.
 
 ---
 
->Frontend Developer @ [SamKnows](https://samknows.com) *(June 2019 - August 19th 2019)*
+><small>(Contract)</small> Frontend Developer @ [SamKnows](https://samknows.com) *(June 2019 - August 19th 2019)*
 
-First role as a contractor. Acting stand-in for the lead frontend developer for first 4 weeks, then moved to the
-platform engineering team. During the first half of my time there I was responsible for cutting the amount of API
-requests for the platform by at least 25%, and reducing the size of the overall frontend payload by at least 5%.
+Acted as stand-in for the lead frontend developer for first 4 weeks, then moved to the platform engineering 
+team. During the first half of my time there I was responsible for cutting the amount of API requests for 
+the platform by at least 25%, and reducing the size of the overall frontend payload by at least 5%.
 
 - Frontend: Vue.js, Node.js & SCSS
 - Backend: PHP
@@ -79,8 +74,8 @@ requests for the platform by at least 25%, and reducing the size of the overall 
 
 >Lead Frontend Developer & UI Architect @ GraphEQ (now defunct) *(September 2017 - 2018) 1 year*
 
-Borne out of an idea between myself, the CTO, the CEO, and lead designer from my previous role, the role I had here
-was another startup role. Here my responsibilities very closely matched the ones at Pathship.
+This role closesly matches the prior one at Pathship, as I worked with ex co-workers from 
+Pathship after it was shuttered. 
 
 - Frontend: Vue.js, SCSS, Pug (formerly Jade)
 - Backend: Node.js
@@ -89,14 +84,14 @@ was another startup role. Here my responsibilities very closely matched the ones
 
 --- 
 
->Lead Frontend Developer & UI Architect @ Pathship (previously The Graduate, now defunct) *(October 2015 - April 2017) 1 year, 7 months*
+>Lead Frontend Developer & UI Architect @ Pathship (now defunct) *(October 2015 - April 2017) 1 year, 7 months*
 
-Startup role. Mostly remote, but around 6 months in total on site in Hong Kong. This role helped shape my 
-skill-set into what it is today. After joining, the CTO and I binned the and rewrote it all in 2 weeks. 
-While here I authored a CSS architecture guide for building hugely scalable and maintainable UI that can 
-be applied to any web codebase which [still holds up to this day](https://github.com/doot0/compago/). I 
-eventually became responsible for leading a talented team of 4-5 developers, where I got the chance to 
-exercise my team management and leadership skills. 
+Startup role. Mostly remote, but 6+ months on site in Hong Kong. After joining, the CTO and I binned 
+years of frontend and rewrote it in 2 weeks. While here I authored a CSS architecture guide for 
+building hugely scalable and maintainable UI that can be applied to any web codebase which 
+[still holds up to this day](https://github.com/doot0/compago/). I eventually became responsible 
+for leading a talented team of 4-5 developers, where I got the chance to exercise my team 
+management and leadership skills. 
 
 - Frontend: Angular JS, Angular JS 2, Vue.js, SCSS
 - Backend: Node.js
@@ -107,11 +102,11 @@ exercise my team management and leadership skills.
 
 >Remote Frontend Engineer @ Gasket Inc (now defunct) *(November 2014 - April 2015) 6 months*
 
-First role at a startup, first 100% remote role. Gasket Inc was a company based in San Francisco seeking to 
-create a product similar to AirTable. I very quickly adapted to the communication issues that were in my way 
-and was able to work very well with ambiguity, as well as being under huge amounts of pressure to deliver on 
-time in order to meet investor targets. I headed up development of my first business-grade SCSS codebase and 
-also helped refactor from Angular 1 to Angular 2.
+First startup & remote role. Gasket Inc was a company based in San Francisco seeking to create a 
+product similar to AirTable. I very quickly adapted to the communication issues that were in my way and 
+was able to work very well with ambiguity, as well as being under huge amounts of pressure to deliver on 
+time in order to meet investor targets. I headed up development of my first business-grade SCSS codebase
+and also helped refactor from Angular 1 to Angular 2.
 
 - Frontend: Angular JS, Angular 2, SCSS
 - Backend: Python
@@ -121,9 +116,9 @@ also helped refactor from Angular 1 to Angular 2.
 
 >Frontend Developer @ [Moore-Wilson New Media Ltd](https://www.m-w.co.uk/) *(September 2014 - November 2014) 3 months*
 
-I was hired here as a frontend developer but was asked to do work outside the scope of my contract. I quickly found 
-work elsewhere, where I knew I would be of actual technical use. Regardless of this, it was here I first learned to 
-work in a "real" office environment and this helped bolster my communication skills in the short time I was there.
+Hired as a frontend developer but was made to do work that was outside of my contract scope, which is why my tenure here 
+was short (I left). Regardless of this, it was here I first learned to work in a "real" office environment and this helped 
+bolster my communication skills in the short time I was there.
 
 - Frontend: Angular JS, vanilla JS, SASS
 - Backend: Laravel
@@ -134,12 +129,12 @@ work in a "real" office environment and this helped bolster my communication ski
 
 >Front-end Developer @ [Lupimedia Ltd](https://www.lupimedia.com/) *(September 2011 - August 2014) 3 years*
 
-My apprenticeship (and first formal role) was a placement at a small design and development studio based in Dorset.
-Though my official title was frontend developer, I covered a huge range of topics at this placement and was able 
-to get experience with every aspect of design & development for the web, all the way from discussing an initial 
-set of requirements and identifying needs for clients, designing layouts and wire-frames based on our discoveries, 
-building the frontend _and_ backend for them, and managing the deployment and infrastructure required. In most 
-cases I was also in charge of client liaison and wrote extensive amounts of copy and documentation.
+Apprenticeship (and first formal role) at a small design and development studio based in Dorset. I was 
+responsibile for a huge range of topics at this placement and built experience with all aspects of design & 
+development for the web. Some of these includes identifying requirements for clients and supporting them, designing 
+layouts and wire-frames based on our discoveries, building the frontend _and_ backend for them, and managing the 
+deployment and infrastructure required. I was also typically in charge of client liaison and wrote extensive 
+amounts of copy and documentation.
 
 - Frontend: Angular JS, Dojo, MooTools, vanilla JS (ES5), SASS/SCSS, LESS
 - Backend: Zend Framework, Laravel, vanilla PHP (5.2 - 5.4)
