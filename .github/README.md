@@ -7,7 +7,7 @@
 - **Very strong with** HTML/CSS, JavaScript, Vue, Nuxt, Figma, Sketch, UI architecture
 - **Good at** Node.js, vite, Ionic, mentoring junior devs, UX design and development
 
-I can use most frontend frameworks and web technology - PHP, bash, webpack, cypress, Jest... feel free to ask! I'm currently spending my spare time building a web3 fitness app with some ex-coworkers whilst watching educational content concerning applied mathematics/cryptography, web3, and macro-economics.
+I can use most frontend frameworks and web technology - PHP, bash, webpack, cypress, Jest... feel free to ask! I'm currently spending my spare time building a web3 fitness app with some ex-coworkers whilst watching educational content concerning applied mathematics & cryptography, web3 & blockchain, and macro-economics.
 
 ---
 
