@@ -9,7 +9,7 @@
 
 I can use most frontend frameworks and web technology - PHP, bash, webpack, cypress, Jest... feel free 
 to ask! I'm currently spending my spare time building a web3 fitness app with some ex-coworkers whilst 
-watching content concerning applied mathematics/cryptography, web3, and macro-economics.
+watching educational content concerning applied mathematics/cryptography, web3, and macro-economics.
 
 ---
 
