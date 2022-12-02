@@ -115,7 +115,7 @@ and also helped refactor from Angular 1 to Angular 2.
 >Frontend Developer @ [Moore-Wilson New Media Ltd](https://www.m-w.co.uk/) *(September 2014 - November 2014) 3 months*
 
 Hired as a frontend developer but was made to do work that was outside of my contract scope, which is why my tenure here 
-was short (I left). Regardless of this, it was here I first learned to work in a "real" office environment and this helped 
+was short (I left). Regardless, it was here I first learned to work in a "real" office environment and this helped 
 bolster my communication skills in the short time I was there.
 
 - Frontend: Angular JS, vanilla JS, SASS
