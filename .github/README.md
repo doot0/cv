@@ -12,7 +12,7 @@ I have a great interest in applied mathematics, economics, cryptocurrency, AI, a
 
 ### Current role
 
->Senior Frontend Engineer @ [Publicis Emil - Saatchi & Saatchi](https://saatchi.co.uk/) *(Oct 2021 - Present)*
+>Senior Frontend Engineer @ [Publicis Emil - Saatchi & Saatchi](https://saatchi.co.uk/) *(Oct 2021 - Sep 2023)*
 
 - Frontend: Vue.js, Nuxt.js, Vuex, Typescript, SCSS
 - Backend: Node.js + Typescript
