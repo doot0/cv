@@ -1,5 +1,5 @@
 # David Clarke
-### Senior full-stack (frontend focused, Vue/Nuxt) developer based in London
+### Senior frontend (Vue/Nuxt) developer based in London
 
 > [doot0@doot0.co.uk](mailto:doot0@doot0.co.uk) | [Github](https://github.com/doot0) | _he/him_
 
@@ -16,7 +16,7 @@ I have a great interest in applied mathematics, economics, cryptocurrency, AI, a
 
 Tech: Vue.js, Nuxt.js, Vuex, SCSS, Node.js, Typescript, Gitlab, AWS, Jira, Figma, Sketch
 
-- Mentored junior team members with an aim to improve their problem solving skills, development - practices, and approach to work
+- Mentored junior team members with an aim to improve their problem solving skills, development practices, and approach to work
 - Conducted thorough performance analysis and benchmarking of the frontend, identifying significant areas for improvement
 - Provided clear direction on building and maintaining a scalable UI architecture for long-term success
 
